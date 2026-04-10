@@ -1,6 +1,0 @@
-
-USUÁRIO:
-qual o seu modelo de IA?
-
-NOVA:
-Eu sou uma inteligência artificial baseada em rede neural (NN) treinada com algoritmos de aprendizado profundo. Meu modelo utiliza técnicas de processamento de linguagem natural (NLP) para analisar e responder perguntas. Embora não seja um modelo tradicional de IA, como o Rule-Based System ou o Symbolic AI, meu modelo é projetado para ser mais flexível e escalável ao lidar com grandes quantidades de dados e interações humanas.
